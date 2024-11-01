@@ -1,0 +1,15 @@
+/*
+ * Spy Analytics
+ * (c) 2013. Aleksej Sytnik
+ */
+#toplevel_page_spy-settings div.wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center 0;
+}
+
+#toplevel_page_spy-settings:hover div.wp-menu-image,
+#toplevel_page_spy-settings.wp-has-current-submenu div.wp-menu-image {
+	background: transparent url(../images/icon.png) no-repeat  scroll center -28px;
+}
+.icon32-spy {
+	background: transparent url(../images/icon32.png) no-repeat  scroll center 0;
+}
